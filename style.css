@@ -1,0 +1,23 @@
+.heading{
+    width:100%;
+    font-size: 50px;
+    margin-top: 0px;
+}
+#note{
+    font-size: 15px;
+    color: black;
+}
+.song{ 
+    box-shadow: 5px 5px 10px lightslategray;
+    font-size: 20px;
+}
+body{
+    background-size: cover;
+    font-family: 'Concert One', cursive;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 8px gray;
+    margin-top: 80px;
+}
